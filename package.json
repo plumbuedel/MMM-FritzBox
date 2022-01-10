@@ -1,0 +1,21 @@
+{
+	"name": "MMM-FritzBox",
+	"version": "0.0.1",
+	"description": "Magic Module for showing status of your Fritz!Box-Router and it's DECT 200/210-Devices",
+	"main": "MMM-FritzBox.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/plumbuedel/MMM-FritzBox.git"
+	},
+	"keywords": [
+		"magic mirror",
+		"fritzbox",
+		"fritz!box",
+		"modular"
+	],
+	"author": "Christian Junge",
+	"license": "MIT",
+	"dependencies": {
+		"@seydx/fritzbox": "^2.3.1"
+	}
+}

@@ -1,0 +1,25 @@
+.title-section {
+ border-bottom: 1px solid var(--color-text-dimmed);	 
+ margin-bottom: 6px;
+ width: 100%;
+ flex-grow: 100;
+}
+
+.entry {
+ margin-right: 6px;
+}
+
+.highlight {
+ color: whitesmoke;
+}
+
+.table-header {
+ font-weight: normal;
+ text-align: left;	
+}
+
+.icon-default {
+ margin-right: 3px;
+}
+
+
